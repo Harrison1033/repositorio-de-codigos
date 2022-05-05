@@ -1,3 +1,3 @@
 # repositorio-de-codigos
-### Repositório para colocar meus códigos
- - Classe de vendas simples
+### Repositório para colocar meus códigos JOptionPane
+ - Classe de vendas simples.txt
